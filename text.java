@@ -6,5 +6,5 @@ b=200
 
 byee
 
-slave01
+salve02
 
